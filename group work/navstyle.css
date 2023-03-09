@@ -1,0 +1,40 @@
+nav {
+    padding: 20px;
+    overflow: hidden;
+    font-size: large;
+    font-family: arial,sans-serif;
+    white-space: nowrap;
+    font: 13px/27px Roboto,Arial,sans-serif;
+}
+nav a {
+    float: right;
+    display: block;
+    top: 0;
+    margin: 0px 1em;
+    cursor: pointer;
+}
+nav a:hover {
+    background-color: darkgray;
+    text-decoration: underline;
+}
+#nav-left {
+    font-size: 14px;
+    float:left;
+}
+#nav-right {
+    font-size: 13px;
+    float:right;
+}
+#nav-spacing{
+    width: 0svw;
+}
+main {
+  margin: 0;
+  position: absolute;
+  top: 22%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
