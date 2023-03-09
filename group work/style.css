@@ -11,4 +11,9 @@ body{
     margin:0 auto;
     text-align: center;
 }
-h1#logo
+h1#logo{
+    width:284px;
+    height:95px;
+    background:
+    url(https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/250px-Google_2015_logo.svg.png)
+}
