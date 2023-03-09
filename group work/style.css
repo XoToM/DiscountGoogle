@@ -40,3 +40,10 @@ input[type="submit"]{
 input[type="submit"]:hover {
     
 }
+ul li{
+    display: inline;
+
+}
+ul{
+    float: right;
+}
