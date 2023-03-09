@@ -1,0 +1,14 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    font-family: Arial, sans-serif;
+    font-size: 13px;
+}
+#container{
+    width:580px;
+    margin:0 auto;
+    text-align: center;
+}
+h1#logo
