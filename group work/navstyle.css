@@ -34,16 +34,6 @@ nav a:hover {
 	width: 0svw;
 }
 
-main {
-	margin: 0;
-	position: absolute;
-	top: 22%;
-	left: 50%;
-	transform: translate(-50%, -50%);
-	display: flex;
-	justify-content: center;
-	align-items: center;
-}
 svg{
 	width:2em;
 	height:2em;
